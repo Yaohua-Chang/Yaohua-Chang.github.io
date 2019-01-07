@@ -1,7 +1,7 @@
 ---
-layout: page
-title: About Me
-permalink: /about/
+layout: default
+title: Post
+permalink: /post/
 ---
 
 My name is Yaohua Chang. Now I am pursuing Master degree of Data Science and Engineering in City College of New York. I am looking for an internship concerning data science and software development in this winter holiday. I am confident in my ability to perform as a Data Engineering intern due to my extensive education and work experience.  
