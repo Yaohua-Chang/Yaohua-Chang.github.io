@@ -14,10 +14,6 @@ I would like to thank you for taking the time to review my application. I look f
 
 Here are my social contact:
 
-[Facebook](https://www.facebook.com/alex.chang.9216778?ref=bookmarks)
-
-[Linkedin](https://www.linkedin.com/in/yaohua-chang-180910177/)
-
-[Blog](https://yaohua-chang.github.io/)
+[Facebook](https://www.facebook.com/alex.chang.9216778?ref=bookmarks) · [Linkedin](https://www.linkedin.com/in/yaohua-chang-180910177/) · [Blog](https://yaohua-chang.github.io/)
 
 My gmail: changyaohuamail.gmail.com

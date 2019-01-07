@@ -3,6 +3,11 @@ layout: page
 title: Resume
 permalink: /resume/
 ---
+INTERNET PROFILES
+======
+[GitHub](https://github.com/Yaohua-Chang) · [LeetCode](https://leetcode.com/yaohua_chang/) · [Facebook](https://www.facebook.com/alex.chang.9216778?ref=bookmarks) · [Linkedin](https://www.linkedin.com/in/yaohua-chang-180910177/)
+
+------
 
 PROFESSIONAL EXPERIENCE
 ======
