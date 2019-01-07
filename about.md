@@ -11,3 +11,13 @@ During one-semester education at City College of New York, I had an intensive st
 I believe my personality has also played a major role in my ability to succeed in this career. I am an extremely analytical, data-oriented, and calculated. Even in my personal life I like to look at the data before making a decision. I like to analyze outcomes.  
 
 I would like to thank you for taking the time to review my application. I look forward to hearing more about your company and the details of the Data Engineering position. I feel that my education and experience will ensure my success in this internship.
+
+Here are my social contact:
+
+[Facebook](https://www.facebook.com/alex.chang.9216778?ref=bookmarks)
+
+[Linkedin](https://www.linkedin.com/in/yaohua-chang-180910177/)
+
+[Blog](https://yaohua-chang.github.io/)
+
+My gmail: changyaohuamail.gmail.com
