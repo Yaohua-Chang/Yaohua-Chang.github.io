@@ -4,10 +4,47 @@ title: Resume
 permalink: /resume/
 ---
 
-My name is Yaohua Chang. Now I am pursuing Master degree of Data Science and Engineering in City College of New York. I am looking for an internship concerning data science and software development in this winter holiday. I am confident in my ability to perform as a Data Engineering intern due to my extensive education and work experience.  
+PROFESSIONAL EXPERIENCE
+======
+**Android Developer Intern**  
+*Nov 2015 – April 2016*  
+QingSongChou Technology Company | Beijing, China  
+The Main Tasks as follow:
+- IM module development.
+- QR Code generation and scanning module development.
+- Picture upload management module development.
+- Part of UI build  
+ 
+------
 
-During one-semester education at City College of New York, I had an intensive study including selecting features, optimizing classifiers, mining data, expanding the company’s data by incorporating third-party sources, improving data collection techniques, processing data, and doing ad-hoc analyses. As a Data Engineer, I was required to have excellent communication skills, understanding of algorithms, excellence in the R and Python, proficiency in ggplot, knowledge of SQL, and excellence in applied statistics.  
+EDUCATION
+======
+**City College Of New York**  
+*Sep 2018-Current*   
+Master of Science: Data Science And Engineering  
+Coursework: Applied Statistics, Intro Data Science, Applied Machine, Learning and Data Mining, Data Engineering, Big Data and Scalable Computation,Visual Analytics
+<br/>
+  
+**North University Of China**  
+*Sep.2012- July.2016*   
+Bachelor of Science: Software Engineering  
+* GPA: 3.63/4.00, The four-year average grade has kept in the top 10% of the college  
+* Academic Scholarship : Two first-class comprehensive quality
+scholarship Two second-class comprehensive quality scholarship
 
-I believe my personality has also played a major role in my ability to succeed in this career. I am an extremely analytical, data-oriented, and calculated. Even in my personal life I like to look at the data before making a decision. I like to analyze outcomes.  
+------
 
-I would like to thank you for taking the time to review my application. I look forward to hearing more about your company and the details of the Data Engineering position. I feel that my education and experience will ensure my success in this internship.
+AWARDS AND ACHIEVEMENTS
+======
+* Software designer (Intermediate level)  
+* Four-level Certificate for National Computer (Network Technology)   
+* GaoDe LBS Developer Certificate   
+
+------
+
+SKILLS
+======
+* Software languages: Java, C  
+* Web Development: PHP, Javascrip
+* Data Analysis: Python, R  
+* Android development  
