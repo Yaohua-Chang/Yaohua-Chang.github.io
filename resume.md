@@ -10,10 +10,10 @@ PROFESSIONAL EXPERIENCE
 *Nov 2015 – April 2016*  
 QingSongChou Technology Company | Beijing, China  
 * My Tasks involved as follow:
-    - IM module development.
-    - QR Code generation and scanning module development.
-    - Picture upload management module development.
-    - Part of UI build  
+    - IM module.
+    - QR Code generation and scanning.
+    - Picture upload management.
+    - Part of UI development
  
 ------
 
